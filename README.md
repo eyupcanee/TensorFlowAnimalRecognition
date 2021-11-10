@@ -1,4 +1,4 @@
-# TensorFlowAnimalReconition
+# TensorFlowAnimalRecognition
 This program recognizes the type of animals in the given photos using the VGG16 model.
 
 
