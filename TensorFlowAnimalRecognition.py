@@ -87,9 +87,9 @@ class Ui_MainWindow(object):
                 processed_shape = image.shape
 
                 predictions = model.predict(image)
-
-
-                if 69 <= np.argmax(predictions) <= 79:
+                if 52 <= np.argmax(predictions) <= 68:
+                    self.result_text.setText("Original image shape:{}\nProcessed image shape:{}\nIt's looks like a SNAKE!".format(original_shape, processed_shape))
+                elif 69 <= np.argmax(predictions) <= 79:
                     self.result_text.setText("Original image shape:{}\nProcessed image shape:{}\nIt's looks like a BUG!".format(original_shape,processed_shape))
                 elif 80 <= np.argmax(predictions) <= 100:
                     self.result_text.setText("Original image shape:{}\nProcessed image shape:{}\nIt's looks like a BIRD!".format(original_shape,processed_shape))
