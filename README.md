@@ -23,4 +23,4 @@ This program recognizes the type of animals in the given photos using the VGG16 
 
 ## Important Note  
 >Estimation not yet detailed for all animals  
->Just For : Fish,Bug,Land Animal,Bird,Dog And Cat For Yet
+>Just For : Fish,Bug,Land Animal,Bird,Dog,Snake And Cat For Yet
