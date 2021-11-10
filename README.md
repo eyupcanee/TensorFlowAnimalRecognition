@@ -5,6 +5,12 @@ This program recognizes the type of animals in the given photos using the VGG16 
 ## You need these to be able to use the program  
 >TensorFlow  
 >TensorFlow Link : https://www.tensorflow.org/install  
+>PyQt5  
+>PyQt5 Link : https://pypi.org/project/PyQt5/  
+>Matplotlib  
+>Matplotlib Link : https://matplotlib.org/  
+>Numpy  
+>Numpy Link : https://numpy.org/
 
 ### About TensorFlow  
 > If you have Nvidia Cuda Supported GPU you can use TensorFlow Version<2.x  
