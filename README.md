@@ -21,6 +21,6 @@ This program recognizes the type of animals in the given photos using the VGG16 
 >Numpy  
 >Matplotlib  
 
-## Important Note
->Estimation not yet detailed for all animals
+## Important Note  
+>Estimation not yet detailed for all animals  
 >Just For : Fish,Bug,Land Animal,Bird,Dog And Cat For Yet
