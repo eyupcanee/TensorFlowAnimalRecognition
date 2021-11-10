@@ -14,3 +14,13 @@ This program recognizes the type of animals in the given photos using the VGG16 
 > Write these codes in TensorFlowAnimalRecognition.py  
 > import os  
 > os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  
+
+## Used Libraries :  
+>Tensorflow  
+>PyQt5 -->For User Interface  
+>Numpy  
+>Matplotlib  
+
+## Important Note
+>Estimation not yet detailed for all animals
+>Just For : Fish,Bug,Land Animal,Bird,Dog And Cat For Yet
